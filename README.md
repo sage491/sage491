@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sage491
 - 👀 I’m interested in leaning to create easy to use interface model 
-- 🌱 I’m currently learning basic c and python
-- 💞️ I’m looking to collaborate on Finance (Asset)management project
+- 🌱 I’m currently learning c++, python, nodejs
+- 💞️ I am building a LMS and amd lloking for unique and creative collabrative ideas
 - 📫 How to reach me harshitkumaroxford@gmail.com or harshitkumaroxford2@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I can be dumb at times
